@@ -1,1 +1,1 @@
-# Exemplo de worker para ser utilizado como task no AWS Fargate
+# Exemplo de worker para ser utilizado em uma task com AWS Fargate
